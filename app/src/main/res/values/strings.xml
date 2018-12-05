@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpinnerTest</string>
+    <string name="show_spinner">Show Spinner</string>
+    <string name="label_title">Touch the button to show / hide a spinner. It will remain in the center of the screen even if you swipe vertically</string>
+</resources>
